@@ -423,15 +423,15 @@ a:hover{
 }
 
 .vk{
-    background-image: url(/images/vk.svg);
+    background-image: url(../images/vk.svg);
 }
 
 .inst{
-    background-image: url(/images/inst.svg);
+    background-image: url(../images/inst.svg);
 }
 
 .telega{
-    background-image: url(/images/telega.svg);
+    background-image: url(../images/telega.svg);
 }
 
 .madeBy{
